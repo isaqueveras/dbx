@@ -1,6 +1,6 @@
 // Package squirrel provides a fluent SQL generator.
 //
-// See https://github.com/Masterminds/squirrel for examples.
+// See https://github.com/isaqueveras/dbx for examples.
 package squirrel
 
 import (

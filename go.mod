@@ -1,4 +1,4 @@
-module github.com/Masterminds/squirrel
+module github.com/isaqueveras/dbx
 
 go 1.14
 
